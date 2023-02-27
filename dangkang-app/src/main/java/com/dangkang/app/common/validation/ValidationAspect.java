@@ -24,7 +24,7 @@ public class ValidationAspect {
     @Autowired
     private FluentValidateInterceptor fluentValidateInterceptor;
 
-    @Pointcut(value="@annotation(com.dangkang.app.validation.Validation)")
+    @Pointcut(value="@annotation(com.dangkang.app.common.annotation.Validation)")
     public void pointcut() {
     }
 
