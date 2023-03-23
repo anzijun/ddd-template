@@ -1,4 +1,4 @@
-package com.dangkang.app.exception;
+package com.dangkang.app.common.exception;
 
 import com.baidu.unbiz.fluentvalidator.interceptor.FluentValidateInterceptor;
 import com.dangkang.app.common.annotation.ApplicationService;

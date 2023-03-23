@@ -9,6 +9,7 @@ import org.springframework.context.ApplicationContext;
  */
 //@SpringBootApplication(exclude={DataSourceAutoConfiguration.class, HibernateJpaAutoConfiguration.class})
 @SpringBootApplication
+
 public class DangkangApplication {
 
     public static void main(String[] args) {

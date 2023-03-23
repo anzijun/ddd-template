@@ -1,7 +1,7 @@
 package com.dangkang.app.examplecontext.service;
 
 import com.baidu.unbiz.fluentvalidator.annotation.FluentValid;
-import com.dangkang.app.annotation.ApplicationService;
+import com.dangkang.app.common.annotation.ApplicationService;
 import com.dangkang.app.common.annotation.ExceptionResolver;
 import com.dangkang.app.common.annotation.Validation;
 import com.dangkang.client.examplecontext.api.ApplicationQueryService;
